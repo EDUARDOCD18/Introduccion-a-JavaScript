@@ -1,4 +1,4 @@
-// 118 - Unir Dos Objetos con el Spread Operator
+// 117 - Unir Dos Objetos con el Spread Operator
 
 "use strict";
 
