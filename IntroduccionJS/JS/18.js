@@ -1,4 +1,4 @@
-// 124 - Funciones cón parámetros y argumentos
+// 124 - Funciones con parámetros y argumentos
 "use stric";
 
 function sumar(num1 = 0, num2 = 0) {
